@@ -1,6 +1,6 @@
 /*
- * Name: Aydan Romayor
- * Date: 2/9/2026
+ * Name: Aydan Romayor, Giovanni Hinojosa, Matthew Briones
+ * Date: 2/20/2026
  * Purpose: Course Class
 */
 
